@@ -10,12 +10,12 @@ Link: https://github.com/jonathan-lee8/the--ecommerce-store
 
 Once cloned, please set up existing packages using npm i. We are utilizing multiple packages here. Please navigate to Insomnia as well.
 
-Start by installing dependencies
-` npm init --y `
-` npm install express sequelize mysql2 `
-Link to our SQL Database and use the schema provided in the code.
-` npm run seed `
-` node server.js `
+Start by installing dependencies\
+` npm init --y `\
+` npm install express sequelize mysql2 `\
+Link to our SQL Database and use the schema provided in the code.\
+` npm run seed `\
+` node server.js `\
 
 Open Insomnia and explore
 
