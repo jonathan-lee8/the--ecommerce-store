@@ -15,7 +15,7 @@ Start by installing dependencies\
 ` npm install express sequelize mysql2 `\
 Link to our SQL Database and use the schema provided in the code.\
 ` npm run seed `\
-` node server.js `\
+` node server.js `
 
 Open Insomnia and explore
 
